@@ -151,8 +151,8 @@ span.label.pull-left {
 } */
 
 #map-container{
-    height: 100%;
-    height: 1000px;
+    /*height: 100%;*/
+    height: 910px;
     /* height: 600px;
     width: 100%; */
 }
