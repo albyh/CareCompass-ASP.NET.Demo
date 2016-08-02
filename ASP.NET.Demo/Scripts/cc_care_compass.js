@@ -102,4 +102,5 @@ function errorMsg(msg) {
 }
 
 //add an event listener to display the map, event is 'load', function to call is 'initialize'
-google.maps.event.addDomListener(window, 'load', initialize);
+//google.maps.event.addDomListener(window, 'load', initialize);
+initialize();
